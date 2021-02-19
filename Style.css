@@ -1,0 +1,70 @@
+.header{
+    background-color:#99ffcc;
+    display: flex;
+    justify-content:flex-start;
+}
+
+.info{
+    background-color:#99ffcc;
+    display: flex;
+    justify-content:flex-start;
+}
+
+body{
+    background-color: rgb(0,0,0); 
+}
+
+p{
+    color:#99ffcc;
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+img{
+    border: 2px solid #99ffcc;
+    border-radius: 40px;
+    
+}
+
+.text{
+    color:#99ffcc;
+    font-family: comic sans ms;
+    font-weight: italic;
+    display: flex;
+    justify-content:center;
+}
+
+.origami{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+    
+.teddy{
+    margin-left: 20px;
+}
+.teddyText{
+    margin-left: 20px;
+}
+.panda{
+    margin-right: 500px;
+}
+
+.cicada{
+    margin-right: 100px;
+}
+
+a.link{
+    color:black
+}
+
+a.visited{
+    color:rgb(255, 0, 128)
+}
+
+.hyper:hover img{
+    opacity:0.33;
+}
+
+.pigeon{
+    margin-right: 100px;
+}
